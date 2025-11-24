@@ -1,6 +1,5 @@
 # Task-7-visualizing_sales-using-Python_DA
-Dataset:-
-Superstore Sales Dataset 
+
 
 Dataset Used:- Superstore Sales Dataset
 
